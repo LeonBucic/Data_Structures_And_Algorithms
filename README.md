@@ -1,10 +1,10 @@
 # Data structures and algorithms
 
-This repository contains examples of data structures and algortihams from my collage class.
+This repository contains examples of data structures and algortihams from my college class.
 
 ## Sorting algorithams
 
-Here are the sorting algorithms learned and their complexity in big O notation.
+Sorting algorithms learned and their complexity in big O notation.
 
 | Algorithm | Complexity (average) |
 | --------- | -------------------- |
@@ -17,7 +17,7 @@ Here are the sorting algorithms learned and their complexity in big O notation.
 
 ## Data structures
 
-Here are the data structures learned.
+Data structures learned.
 
 | Data structure |
 | -------------- |
@@ -28,11 +28,11 @@ Here are the data structures learned.
 | Hash table |
 | Binary search tree |
 
-## Basic algorithams on graphs
+## Basic algorithms on graphs
 
-Here are the algorithams on grpahs learned.
+Algorithms on graphs learned.
 
-| Algoritham |
+| Algorithm |
 | ---------- |
 | Breadth-first search |
 | Depth-first search |
